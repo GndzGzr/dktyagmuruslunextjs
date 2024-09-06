@@ -1,0 +1,55 @@
+.introAbout {
+    padding: 2% 10%;
+    display: inline-flex;
+    width: 100%;
+    background-color: #F9F6EF;
+    
+}
+.imgAbout {
+    width: 100%;
+}
+.imgAboutContainer {
+    width: 40%;
+    margin-right: 5%;
+}
+.textAbout {
+    width: 70%;
+}
+.textAbout-2 {
+    padding: 0% 10%;
+    margin: 0%;
+    background-color: #F9F6EF;
+}
+.badgeName{
+    font-size: 2.8vw;
+    color: black;
+}
+
+p {
+    font-size: 1.3vw;
+}
+.cvContainer {
+
+    background-color: #F9F6EF;
+
+}
+.experience {
+    background-color: #3B4EA8;
+    border-radius: 1.5vw;
+    color: white;
+}
+.cvH {
+    padding: 2% 5%;
+    font-size: 1.8vw;
+}
+ul {
+    padding-left: 5%;
+    color: #3B4EA8;
+}
+li {
+    color: black;
+    font-size: 1.3vw;
+    
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
