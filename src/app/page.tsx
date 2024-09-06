@@ -11,7 +11,9 @@ import Footer from "@/app/components/Footer"
 export default function Home() {
   return (
     <div className="">
-      <Info/>
+      <div className="hidden lg:block">
+        <Info/>
+      </div>
       <Header/>
       <Hero/>
       <About />

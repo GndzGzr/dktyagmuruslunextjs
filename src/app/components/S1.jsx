@@ -3,30 +3,31 @@ import Image from "next/image";
 
 const s1 = () => {
     return (
-        <div className="bg-[#FFD0EC] px-64 py-12">
+        <div className="bg-[#FFD0EC] px-4 lg:px-64 py-12">
             <div className="text-center pb-8">
                 <h1 className="text-[#FFB6E1] text-4xl pb-8">Seanslar</h1>
                 <h1 className="text-[#1C252E] text-5xl font-bold">Konuşma Bozukluklarına Profesyonel Yaklaşılan Her Seans Yeni Bir Keşiftir</h1>
 
             </div>
-            <div className="grid grid-cols-8 pt-12">
+            <div className="grid grid-cols-1 lg:grid-cols-8 pt-12">
 
-                <div className="grid col-span-3 bg-seans-first h-screen bg-contain bg-no-repeat bg-center rounded-lg">
-                    <div className="px-8" >
+                <div className="grid grid-cols-1 lg:col-span-3 bg-seans-first h-96 w-full lg:h-screen bg-contain bg-no-repeat bg-center rounded-lg">
+                    <div className="lg:px-8" >
 
-                        <h1 className="text-4xl py-12 font-bold text-center">Konuşma Sesi Bozukluğu</h1>
-                        <ul className="pt-40 text-black text-xl font-medium list-disc px-8 ">
-                            <li className="pb-2">Süre: haftada 1 gün</li>
-                            <li className="pb-2">Seans Süresi: 40 dakika    </li>
+                        <h1 className="text-md lg:text-4xl py-12 font-bold text-center">Konuşma Sesi Bozukluğu</h1>
+                        <ul className="px-60 lg:px-0 pt-12 lg:pt-40 text-black text-sm lg:text-xl font-medium list-disc lg:px-8 ">
+                            <li className="pb-2 ">Süre: haftada 1 gün</li>
+                            <li className="pb-2 ">Seans Süresi: 40 dakika    </li>
                             <li className="">Amaç: <br></br>Bireyin konuşma seslerini hayatına entegre etmek</li>
+                        
                         </ul>
-                        <button style={{ borderColor: "white" }} className="seansButton">Daha Fazla</button>
+                        
 
 
                     </div>
 
                 </div>
-                <div className="grid col-span-5 px-16">
+                <div className="grid lg:col-span-5 lg:px-16">
                     <div>
                         <h1 className="text-[#1C252E] font-bold text-3xl p-4 h-16">Sizden Gelenler</h1>
                         <div className="carousel carousel-vertical rounded-box h-96">

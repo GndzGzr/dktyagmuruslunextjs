@@ -9,7 +9,7 @@ import Image from "next/image"
 import Link from "next/link"
 const footer = () => {
     return(
-        <div className="grid grid-cols-5 py-12 bg-[#1C252E]">
+        <div className="grid lg:grid-cols-2 lg:grid-cols-5 py-12 bg-[#1C252E]">
             <div className='grid col-span-1 col-start-2 gap-4'>
                 <h1 className='flex items-center justify-center text-bold text-3xl'>İletişim</h1>
                 <div className='flex items-center justify-start'>

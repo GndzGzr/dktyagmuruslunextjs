@@ -3,26 +3,26 @@ import Image from "next/image";
 
 const s3 = () => {
     return (
-        <div className="bg-[#FFD0EC] px-64 py-12">
+        <div className="bg-[#FFD0EC] px-4 lg:px-64 py-12">
 
-            <div className="grid grid-cols-8 pt-12">
+            <div className="grid grid-cols-1 lg:grid-cols-8 pt-4 lg:pt-12">
 
-                <div className="grid col-span-3 bg-seans-third h-screen bg-contain bg-no-repeat bg-center rounded-lg">
-                    <div className="px-8" >
+                <div className="grid grid-cols-1 lg:col-span-3 bg-seans-first h-96 w-full lg:h-screen bg-contain bg-no-repeat bg-center rounded-lg">
+                    <div className="lg:px-8" >
 
-                        <h1 className="text-4xl py-20 font-bold text-center">Kekemelik</h1>
-                        <ul className="pt-40 text-black text-xl font-medium list-disc px-8 ">
+                        <h1 className="text-md lg:text-4xl py-12 font-bold text-center">Kekemelik</h1>
+                        <ul className="px-56 lg:px-0 pt-10 lg:pt-40 text-black text-sm lg:text-xl font-medium list-disc lg:px-8 ">
                             <li className="pb-2">Süre: haftada 1 veya 2 gün</li>
                             <li className="pb-2">Seans Süresi: 40 dakika    </li>
                             <li className="">Amaç: <br></br>Bireyin spontan konuşmasındaki akıcısızlıklarını kontrol altına almasını sağlamak</li>
                         </ul>
-                        <button style={{ borderColor: "white" }} className="seansButton">Daha Fazla</button>
+                        
 
 
                     </div>
 
                 </div>
-                <div className="grid col-span-5 px-16">
+                <div className="grid lg:col-span-5 lg:px-16">
                     <div>
                         <h1 className="text-[#1C252E] font-bold text-3xl p-4 h-16">Sizden Gelenler</h1>
                         <div className="carousel carousel-vertical rounded-box h-96">

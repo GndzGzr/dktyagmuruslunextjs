@@ -11,7 +11,7 @@ import Link from 'next/link'
 const info = () => {
     return (
 
-        <div className="grid grid-cols-4 px-24 py-3 bg-#1C252E">
+        <div className="grid grid-cols-1 grid-cols-4 px-24 py-3 bg-#1C252E">
 
             <div className="grid grid-cols-2 col-span-2 col-start-1 gap-4">
                 <div className='flex items-center'>

@@ -6,18 +6,16 @@ const header = () => {
     return (
 
         <div className="bg-white">
-            <div className='grid grid-cols-3 px-24 py-7'>
-                <div className='grid col-span-1 col-start-1'>
-                    <Link href="/"><Image height={75} src={websiteLogo}></Image></Link>
+            <div className='grid grid-cols-1 lg:grid-cols-3 px-4 lg:px-24 py-7'>
+                <div className='grid grid-cols-1 lg:col-span-1 lg:col-start-1'>
+                    <Link href="/"><Image className='ml-32' height={75} src={websiteLogo}></Image></Link>
                 </div>
-                <div className='grid grid-cols-8 col-span-2 col-start-2'>
-                    <div className='grid grid-cols-3 col-span-4 col-start-5'>
+                <div className='grid lg:grid-cols-8 lg:col-span-2 lg:col-start-2 py-8 lg:py-0'>
+                    <div className='grid grid-cols-3 lg:grid-cols-3 lg:col-span-4 lg:col-start-5'>
                         <Link className='flex items-center justify-center text-black text-xl font-medium' href="/pages/about">Hakkında</Link>
                         <Link className='flex items-center justify-center text-black text-xl font-medium' href="/pages/contact">İletişim</Link>
                         <div className='flex items-center justify-center text-xl'>
-                            <button class="bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-full">
-                                Ana Sayfa
-                            </button>
+                            <Link href="/" className='bg-purple-500 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-full'>Ana Sayfa</Link>
                         </div>
 
                     </div>
