@@ -6,7 +6,7 @@ const header = () => {
     return (
 
         <div className="bg-white">
-            <div className='grid grid-cols-1 lg:grid-cols-3 px-0 sm:px-4 lg:px-24 py-7'>
+            <div className='grid grid-cols-1 lg:grid-cols-3 pl-4 sm:px-4 lg:px-24 py-7'>
                 <div className='grid grid-cols-1 lg:col-span-1 lg:col-start-1'>
                     <Link href="/"><Image className='lg:ml-32' height={75} src={websiteLogo}></Image></Link>
                 </div>

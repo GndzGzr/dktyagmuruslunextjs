@@ -7,7 +7,9 @@ import AboutContent from "@/app/components/AboutContent"
 export default function Contact() {
     return (
         <div>
-            <Info/>
+            <div className="hidden lg:block">
+                <Info />
+            </div>
             <Header />
             <Form/>
             <Footer />
