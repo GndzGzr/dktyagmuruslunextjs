@@ -5,7 +5,9 @@ import Info from "@/app/components/Info"
 export default function About() {
     return (
         <div>
-            <Info/>
+            <div className="hidden lg:block">
+                <Info />
+            </div>
             <Header />
             <AboutContent />
             <Footer />

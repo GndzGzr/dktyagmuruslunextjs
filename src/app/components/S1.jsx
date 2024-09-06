@@ -6,7 +6,7 @@ const s1 = () => {
         <div className="bg-[#FFD0EC] px-4 lg:px-64 py-12">
             <div className="text-center pb-8">
                 <h1 className="text-[#FFB6E1] text-4xl pb-8">Seanslar</h1>
-                <h1 className="text-[#1C252E] text-5xl font-bold">Konuşma Bozukluklarına Profesyonel Yaklaşılan Her Seans Yeni Bir Keşiftir</h1>
+                <h1 className="text-[#1C252E] text-2xl lg:text-5xl font-bold">Konuşma Bozukluklarına Profesyonel Yaklaşılan Her Seans Yeni Bir Keşiftir</h1>
 
             </div>
             <div className="grid grid-cols-1 lg:grid-cols-8 pt-12">
@@ -14,8 +14,8 @@ const s1 = () => {
                 <div className="grid grid-cols-1 lg:col-span-3 bg-seans-first h-96 w-full lg:h-screen bg-contain bg-no-repeat bg-center rounded-lg">
                     <div className="lg:px-8" >
 
-                        <h1 className="text-md lg:text-4xl py-12 font-bold text-center">Konuşma Sesi Bozukluğu</h1>
-                        <ul className="px-60 lg:px-0 pt-12 lg:pt-40 text-black text-sm lg:text-xl font-medium list-disc lg:px-8 ">
+                        <h1 className="text-sm lg:text-4xl py-12 font-bold text-center">Konuşma Sesi Bozukluğu</h1>
+                        <ul className="px-24 sm:px-60 lg:px-0 pt-12 lg:pt-40 text-black text-sm lg:text-xl font-medium list-disc lg:px-8 ">
                             <li className="pb-2 ">Süre: haftada 1 gün</li>
                             <li className="pb-2 ">Seans Süresi: 40 dakika    </li>
                             <li className="">Amaç: <br></br>Bireyin konuşma seslerini hayatına entegre etmek</li>
@@ -144,7 +144,7 @@ const s1 = () => {
                                             </h3>
                                             <time class="text-xs" datetime="2022-11-13T20:00Z">29 Haziran 2024</time>
                                         </div>
-                                        <p class="text-base">Kızımın hızlı konuşma bozukluğu için başvurduk. Farklı bir uygulamadan buldum kendisini. Online üzerinden katılıyoruz seanslara. Çok güzel ilerleme katettik. 4 seans oldu. Devam ediyoruz. Devam etme sebebimiz Yağmur Hanım'dan kaynaklı değil, kızım üstünde durmuyor. Biz talep ettik, yoksa süreç bitiyordu. Seansları uzmanımız yeterli gördü. Ama faaliyete geçirmiyor kızım. Yağmur Hanım çok tatlı ve işinin ehli bir insan. Çok memnunuz. Bize her türlü konuda yardımcı oluyor.</p>
+                                        <p class="text-sm lg:text-base">Kızımın hızlı konuşma bozukluğu için başvurduk. Farklı bir uygulamadan buldum kendisini. Online üzerinden katılıyoruz seanslara. Çok güzel ilerleme katettik. 4 seans oldu. Devam ediyoruz. Devam etme sebebimiz Yağmur Hanım'dan kaynaklı değil, kızım üstünde durmuyor. Biz talep ettik, yoksa süreç bitiyordu. Seansları uzmanımız yeterli gördü. Ama faaliyete geçirmiyor kızım. Yağmur Hanım çok tatlı ve işinin ehli bir insan. Çok memnunuz. Bize her türlü konuda yardımcı oluyor.</p>
 
                                     </div>
                                 </div>
@@ -162,7 +162,7 @@ const s1 = () => {
                                             </h3>
                                             <time class="text-xs" datetime="2022-11-13T20:00Z">22 Mart 2024</time>
                                         </div>
-                                        <p class="text-base">Kızım Yağmur Hocanın derslerine girdi.Hala devam ediyoruz .Kızım çok memnun kendisinden hem eğlendirip hem öğretiyor.Kızım severek kendisine gidiyor.Dikkatli olması hemen fark edip bilgilendiriyor.Biz kendisinden çok memnunuz..Hemen aksi bir durum olduğunda fark edip bilgi vermesi çok önemli.Derslerde yeterlilik ve çabası öğrencisi ile iletişimi çok güzel.Her şeyden önce öğrencisi ile ilgili.Ev için verdiği ödevleri de çok dikkatli bir şekilde takip ediyor</p>
+                                        <p class="text-xs lg:text-base">Kızım Yağmur Hocanın derslerine girdi.Hala devam ediyoruz .Kızım çok memnun kendisinden hem eğlendirip hem öğretiyor.Kızım severek kendisine gidiyor.Dikkatli olması hemen fark edip bilgilendiriyor.Biz kendisinden çok memnunuz..Hemen aksi bir durum olduğunda fark edip bilgi vermesi çok önemli.Derslerde yeterlilik ve çabası öğrencisi ile iletişimi çok güzel.Her şeyden önce öğrencisi ile ilgili.Ev için verdiği ödevleri de çok dikkatli bir şekilde takip ediyor</p>
 
                                     </div>
                                 </div>
@@ -180,7 +180,7 @@ const s1 = () => {
                                             </h3>
                                             <time class="text-xs" datetime="2022-11-13T20:00Z">27 Haziran 2024</time>
                                         </div>
-                                        <p class="text-base">Çocuğum R harfini çıkaramadığı için başvurdum. Çocuklarla iletişimini beğeniyorum ve çocuğum yabancılık çekmedi. 2-3 seans gittik. Seans esnasında R harfini çıkarmadı. Orada gördüğü tekniklerle kendisi uygulayarak çıkarmaya başladı. Farkındalık oluştu çocuğumda. Yağmur Hanımla birlikteyken kendisini kapattı ve yapmak istemedi. Yağmur Hanım yeni mezun enerji dolu bir uzman. Terapi sonrasında da ilgileniyor. Kendi alanında gelişime açık hem de okulda öğrendiği bilgileri aktarmakta keyif alan ve gayret eden birisi.</p>
+                                        <p class="text-xs lg:text-base">Çocuğum R harfini çıkaramadığı için başvurdum. Çocuklarla iletişimini beğeniyorum ve çocuğum yabancılık çekmedi. 2-3 seans gittik. Seans esnasında R harfini çıkarmadı. Orada gördüğü tekniklerle kendisi uygulayarak çıkarmaya başladı. Farkındalık oluştu çocuğumda. Yağmur Hanımla birlikteyken kendisini kapattı ve yapmak istemedi. Yağmur Hanım yeni mezun enerji dolu bir uzman. Terapi sonrasında da ilgileniyor. Kendi alanında gelişime açık hem de okulda öğrendiği bilgileri aktarmakta keyif alan ve gayret eden birisi.</p>
 
                                     </div>
                                 </div>
@@ -238,7 +238,7 @@ const s1 = () => {
                                             </h3>
                                             <time class="text-xs" datetime="2022-11-13T20:00Z">28 Şubat 2024</time>
                                         </div>
-                                        <p class="text-sm">Kızım için konuşma bozukluğu tanısı konulduktan sonra bir kurumda dil terapist dersleri almaya başladık. Kurum değiştirmek isteyince, kurum müdürü, Yağmur hocanın iyi bir hoca ve sizin istediğiniz seviyeye gelecek vaatleriyle bir tur daha devam etmeye karar vermiştik ve iyi ki diyorum. Sonunda Yağmur hocaya denk geldik ve sistemle ve ilgiyle ilerledik. İşin içine beni de kattı hocamız ve şuan derslerimiz devam ediyor, çok iyi ilerliyoruz. Başkaları tarafında da fark edilebilir bir ilerleme oldu. Yağmur hocaya ilk önce denk gelseydik diyorum her zaman. İnşallah evlatlarınızda konuşma bozukluğu olmaz ama eğer olursa da çözümü önce Allah'tan sonra Yağmur hocada diyorum.
+                                        <p class="text-xs lg:text-sm">Kızım için konuşma bozukluğu tanısı konulduktan sonra bir kurumda dil terapist dersleri almaya başladık. Kurum değiştirmek isteyince, kurum müdürü, Yağmur hocanın iyi bir hoca ve sizin istediğiniz seviyeye gelecek vaatleriyle bir tur daha devam etmeye karar vermiştik ve iyi ki diyorum. Sonunda Yağmur hocaya denk geldik ve sistemle ve ilgiyle ilerledik. İşin içine beni de kattı hocamız ve şuan derslerimiz devam ediyor, çok iyi ilerliyoruz. Başkaları tarafında da fark edilebilir bir ilerleme oldu. Yağmur hocaya ilk önce denk gelseydik diyorum her zaman. İnşallah evlatlarınızda konuşma bozukluğu olmaz ama eğer olursa da çözümü önce Allah'tan sonra Yağmur hocada diyorum.
 
                                         </p>
 
@@ -259,7 +259,7 @@ const s1 = () => {
                                             </h3>
                                             <time class="text-xs" datetime="2022-11-13T20:00Z">27 Şubat 2024</time>
                                         </div>
-                                        <p class="text-sm">Yağmur Hanım işinde profesyonel bir terapist. Hızlı konuşma bozukluğum ve kekemelik sorunum nedeniyle kendisine başvurdum. Sürecin en başında yaptığı değerlendirmeyle koyduğu tanı, ardından tedavinin neleri içerdiği ile ilgili bilgilendirmesi ve ne kadarlık bir sürede beni tamamen iyileştirip, konuşmamın akıcı ve anlaşılır bir hale geleceği konusunda verdiği tarih tam olarak örtüştü. Ayrıca terapi saatleri haricinde WhatsApp üzerinden verdiği ekstra desteğiyle de birlikte çalışmaktan büyük mutluluk duydum. Bana istediğim sonucu aldırdı. Kendisinden çok memnun kaldım.
+                                        <p class="text-xs lg:text-sm">Yağmur Hanım işinde profesyonel bir terapist. Hızlı konuşma bozukluğum ve kekemelik sorunum nedeniyle kendisine başvurdum. Sürecin en başında yaptığı değerlendirmeyle koyduğu tanı, ardından tedavinin neleri içerdiği ile ilgili bilgilendirmesi ve ne kadarlık bir sürede beni tamamen iyileştirip, konuşmamın akıcı ve anlaşılır bir hale geleceği konusunda verdiği tarih tam olarak örtüştü. Ayrıca terapi saatleri haricinde WhatsApp üzerinden verdiği ekstra desteğiyle de birlikte çalışmaktan büyük mutluluk duydum. Bana istediğim sonucu aldırdı. Kendisinden çok memnun kaldım.
 
 
 
@@ -282,7 +282,7 @@ const s1 = () => {
                                             </h3>
                                             <time class="text-xs" datetime="2022-11-13T20:00Z">27 Şubat 2024</time>
                                         </div>
-                                        <p class="text-base">Hocamız ile özel eğitim ve rehabilitasyon merkezi sayesinde tanıştık. Çocuklarım konuşma sıkıntısı vardı hem de ileri derecede. Yaklaşık 6 aydır Yağmur hocayla beraber bu süreci geçiriyoruz ve iyi ki onunla tanışmışız, iyi ki karşımıza çıkmış. Gerek çocuklarımla gerekse benimle çok güzel ilgilendi. Bizi her daim motive ederek bu süreci çok güzel anlattık. Çocukların su anki gelişimi çok güzel, konuşmalarındaki sıkıntı baya Yağmur hoca vesilesiyle düzeldi . Çevremdeki insanlara da gözüm kapalı tavsiye ederim.
+                                        <p class="text-xs lg:text-base">Hocamız ile özel eğitim ve rehabilitasyon merkezi sayesinde tanıştık. Çocuklarım konuşma sıkıntısı vardı hem de ileri derecede. Yaklaşık 6 aydır Yağmur hocayla beraber bu süreci geçiriyoruz ve iyi ki onunla tanışmışız, iyi ki karşımıza çıkmış. Gerek çocuklarımla gerekse benimle çok güzel ilgilendi. Bizi her daim motive ederek bu süreci çok güzel anlattık. Çocukların su anki gelişimi çok güzel, konuşmalarındaki sıkıntı baya Yağmur hoca vesilesiyle düzeldi . Çevremdeki insanlara da gözüm kapalı tavsiye ederim.
 
 
 

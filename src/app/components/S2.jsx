@@ -84,8 +84,8 @@ const s2 = () => {
                 <div className="grid grid-cols-1 lg:col-span-3 bg-seans-first h-96 w-full lg:h-screen bg-contain bg-no-repeat bg-center rounded-lg">
                         <div className="lg:px-8" >
 
-                            <h1 className="text-md lg:text-4xl px-56 lg:px-0 py-7 lg:py-12 font-bold text-center">Gelişimsel Dil (Gecikmiş Konuşma)</h1>
-                            <ul className="px-56 lg:px-0 pt-8 lg:pt-40 text-black text-sm lg:text-xl font-medium list-disc lg:px-8">
+                            <h1 className="text-md lg:text-4xl px-24 sm:px-56 lg:px-0 py-7 lg:py-12 font-bold text-center">Gelişimsel Dil (Gecikmiş Konuşma)</h1>
+                            <ul className="px-24 sm:px-56 lg:px-0 pt-8 lg:pt-40 text-black text-sm lg:text-xl font-medium list-disc lg:px-8">
                                 <li className="pb-2">Süre: haftada 1 veya 2 gün</li>
                                 <li className="pb-2">Seans Süresi: 40 dakika    </li>
                                 <li className="">Amaç: <br></br>Çocuğun normalin dışında olan dil gelişimini standart düzeye getirmek</li>

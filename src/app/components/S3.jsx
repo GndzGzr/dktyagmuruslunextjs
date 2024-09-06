@@ -11,7 +11,7 @@ const s3 = () => {
                     <div className="lg:px-8" >
 
                         <h1 className="text-md lg:text-4xl py-12 font-bold text-center">Kekemelik</h1>
-                        <ul className="px-56 lg:px-0 pt-10 lg:pt-40 text-black text-sm lg:text-xl font-medium list-disc lg:px-8 ">
+                        <ul className="px-24 sm:px-56 lg:px-0 pt-10 lg:pt-40 text-black text-sm lg:text-xl font-medium list-disc lg:px-8 ">
                             <li className="pb-2">Süre: haftada 1 veya 2 gün</li>
                             <li className="pb-2">Seans Süresi: 40 dakika    </li>
                             <li className="">Amaç: <br></br>Bireyin spontan konuşmasındaki akıcısızlıklarını kontrol altına almasını sağlamak</li>
@@ -53,7 +53,7 @@ const s3 = () => {
                                             </h3>
                                             <time class="text-xs" datetime="2022-11-13T20:00Z">18 Ağustos 2024</time>
                                         </div>
-                                        <p class="text-base">Oğlum 10 yaşında kekemelikten dolayı Yağmur Hanım ile terapilere başladık. İnternette araştırdım ve Yağmur Hanım ile oradan tanıştık. 7 seans terapi aldık şu ana kadar oğlumda bu hafta daha da fark ediyorum konuşmalarında kekemelik azaldı, yok denilebilecek kadar çok nadir tekrarlıyor. Daha özgüvenli oldu, Yağmur Hanım sayesinde derslerine daha adapte oldu, teşvikleri sayesinde her gün heyecanla derslerimizi yaptık. Herkese tavsiye ederiz.</p>
+                                        <p class="text-sm lg:text-base">Oğlum 10 yaşında kekemelikten dolayı Yağmur Hanım ile terapilere başladık. İnternette araştırdım ve Yağmur Hanım ile oradan tanıştık. 7 seans terapi aldık şu ana kadar oğlumda bu hafta daha da fark ediyorum konuşmalarında kekemelik azaldı, yok denilebilecek kadar çok nadir tekrarlıyor. Daha özgüvenli oldu, Yağmur Hanım sayesinde derslerine daha adapte oldu, teşvikleri sayesinde her gün heyecanla derslerimizi yaptık. Herkese tavsiye ederiz.</p>
 
 
                                     </div>
@@ -89,7 +89,7 @@ const s3 = () => {
                                             </h3>
                                             <time class="text-xs" datetime="2022-11-13T20:00Z">7 Temmuz 2024</time>
                                         </div>
-                                        <p class="text-sm">Yağmur Hanım ile çalışma programımızdan son derece memnunum. DoktorTakvimin'den, 13 yaşındaki oğlumun konuşma bozukluğu, kekeleme probleminden dolayı başvurdum ve süreçten çok memnunum. Sadece haftada bir seans yapmakla kalmıyor, her gün iletişime geçip, günlük rutinlerin yapılıp yapılmadığını, aile bireylerinin duygu ve durumlarının danışanı nasıl etkilediğini vs. bunları dahi inceliyor. Bence yaptığı işi son derece özenle yapıyor. Danışanı ile bir bağ kurduğuna düşünüyorum. Dört seansta bir başarı elde ettik, daha fazlasının olacağına da yürekten inanıyorum. Kesinlikle konuşma problemi çeken yetişkin, çocuk, ergen herkese tavsiye ederim.
+                                        <p class="text-xs lg:text-sm">Yağmur Hanım ile çalışma programımızdan son derece memnunum. DoktorTakvimin'den, 13 yaşındaki oğlumun konuşma bozukluğu, kekeleme probleminden dolayı başvurdum ve süreçten çok memnunum. Sadece haftada bir seans yapmakla kalmıyor, her gün iletişime geçip, günlük rutinlerin yapılıp yapılmadığını, aile bireylerinin duygu ve durumlarının danışanı nasıl etkilediğini vs. bunları dahi inceliyor. Bence yaptığı işi son derece özenle yapıyor. Danışanı ile bir bağ kurduğuna düşünüyorum. Dört seansta bir başarı elde ettik, daha fazlasının olacağına da yürekten inanıyorum. Kesinlikle konuşma problemi çeken yetişkin, çocuk, ergen herkese tavsiye ederim.
 
                                         </p>
 
