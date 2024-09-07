@@ -59,7 +59,7 @@ const s2 = () => {
 
 
                     </div>
-                    <div className="grid grid-cols-1 lg:col-span-3 bg-seans-first h-96 w-full lg:h-screen bg-contain bg-no-repeat bg-center rounded-lg">
+                    <div className="grid grid-cols-1 lg:col-span-3 bg-seans-second h-96 w-full lg:h-screen bg-contain bg-no-repeat bg-center rounded-lg">
                         <div className="lg:px-8" >
 
                             <h1 className="text-md lg:text-4xl py-12 font-bold text-center">Gelişimsel Dil (Gecikmiş Konuşma)</h1>
@@ -81,7 +81,7 @@ const s2 = () => {
             <div className="block lg:hidden bg-[#FFD0EC] px-4 lg:px-64 py-4 lg:py-12">
 
                 <div className="grid grid-cols-1 lg:grid-cols-8 pt-12">
-                <div className="grid grid-cols-1 lg:col-span-3 bg-seans-first h-96 w-full lg:h-screen bg-contain bg-no-repeat bg-center rounded-lg">
+                <div className="grid grid-cols-1 lg:col-span-3 bg-seans-second h-96 w-full lg:h-screen bg-contain bg-no-repeat bg-center rounded-lg">
                         <div className="lg:px-8" >
 
                             <h1 className="text-md lg:text-4xl px-24 sm:px-56 lg:px-0 py-7 lg:py-12 font-bold text-center">Gelişimsel Dil (Gecikmiş Konuşma)</h1>
