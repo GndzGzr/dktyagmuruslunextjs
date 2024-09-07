@@ -2,7 +2,7 @@ import React from "react";
 import { ReactDOM } from "react";
 
 var links = {
-    instagramURL : "https://www.instagram.com/dilterapisti_yagmur/",
+    instagramURL : "https://www.instagram.com/dilterapisti_yagmur?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     linkedinURL : "https://www.linkedin.com/in/ya%C4%9Fmur-uslu-7447b3263/",
     youtubeURL : "https://youtube.com/@DilTerapistiYagmurUslu",
     tiktokURL : "https://tiktok.com/@dilterapistiyagmuruslu",
