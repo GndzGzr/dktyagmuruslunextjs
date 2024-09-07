@@ -7,11 +7,8 @@ const center = {
   lat: 40.07726511155556, // default latitude
   lng: 29.500503636187613, // default longitude
 };
-const mapContainerStyle = {
-  width: '45vw',
-  height: '50vh',
-};
-const Map = () => {
+
+const Map = ({style}) => {
   const { isLoaded, loadError } = useLoadScript({
     googleMapsApiKey: 'AIzaSyDfPQWhpQYoulSSbEWn7hwlNQxBwoNTAZ0',
     libraries,
@@ -28,7 +25,7 @@ const Map = () => {
   return (
     <div>
       <GoogleMap
-        mapContainerStyle={mapContainerStyle}
+        mapContainerStyle={style}
         zoom={10}
         center={center}
       >

@@ -63,7 +63,7 @@ const s2 = () => {
                         <div className="lg:px-8" >
 
                             <h1 className="text-md lg:text-4xl py-12 font-bold text-center">Gelişimsel Dil (Gecikmiş Konuşma)</h1>
-                            <ul className="px-60 lg:px-0 pt-12 lg:pt-40 text-black text-sm lg:text-xl font-medium list-disc lg:px-8">
+                            <ul className="px-60 lg:px-0 pt-12 lg:pt-40 text-black text-sm lg:text-xl font-medium lg:list-disc lg:px-8">
                                 <li className="pb-2">Süre: haftada 1 veya 2 gün</li>
                                 <li className="pb-2">Seans Süresi: 40 dakika    </li>
                                 <li className="">Amaç: <br></br>Çocuğun normalin dışında olan dil gelişimini standart düzeye getirmek</li>
@@ -85,7 +85,7 @@ const s2 = () => {
                         <div className="lg:px-8" >
 
                             <h1 className="text-md lg:text-4xl px-24 sm:px-56 lg:px-0 py-7 lg:py-12 font-bold text-center">Gelişimsel Dil (Gecikmiş Konuşma)</h1>
-                            <ul className="px-24 sm:px-56 lg:px-0 pt-8 lg:pt-40 text-black text-sm lg:text-xl font-medium list-disc lg:px-8">
+                            <ul className="px-24 sm:px-56 lg:px-0 pt-8 lg:pt-40 text-black text-sm lg:text-xl font-medium lg:list-disc lg:px-8">
                                 <li className="pb-2 text-sm lg:text-xl">Süre: haftada 1 veya 2 gün</li>
                                 <li className="pb-2 text-sm lg:text-xl">Seans Süresi: 40 dakika    </li>
                                 <li className="text-sm lg:text-xl">Amaç: <br></br>Çocuğun normalin dışında olan dil gelişimini standart düzeye getirmek</li>
